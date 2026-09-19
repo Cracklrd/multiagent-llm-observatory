@@ -1,0 +1,7 @@
+model_name,input_price,output_price,avg_latency,quality_score
+model_sprint,0.10,0.40,0.7,68
+model_fast,0.15,0.60,1.2,72
+model_economy,0.25,0.75,1.8,78
+model_balanced,0.50,1.50,2.4,85
+model_reasoning,1.20,4.00,3.8,91
+model_quality,2.00,6.00,5.0,94
